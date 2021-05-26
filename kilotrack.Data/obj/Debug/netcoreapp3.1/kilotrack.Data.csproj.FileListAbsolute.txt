@@ -1,0 +1,9 @@
+C:\Users\brian\Desktop\newDevelopments\productive_dev\kilotrack\kilotrack.Data\bin\Debug\netcoreapp3.1\kilotrack.Data.deps.json
+C:\Users\brian\Desktop\newDevelopments\productive_dev\kilotrack\kilotrack.Data\bin\Debug\netcoreapp3.1\kilotrack.Data.dll
+C:\Users\brian\Desktop\newDevelopments\productive_dev\kilotrack\kilotrack.Data\bin\Debug\netcoreapp3.1\kilotrack.Data.pdb
+C:\Users\brian\Desktop\newDevelopments\productive_dev\kilotrack\kilotrack.Data\obj\Debug\netcoreapp3.1\kilotrack.Data.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\newDevelopments\productive_dev\kilotrack\kilotrack.Data\obj\Debug\netcoreapp3.1\kilotrack.Data.AssemblyInfoInputs.cache
+C:\Users\brian\Desktop\newDevelopments\productive_dev\kilotrack\kilotrack.Data\obj\Debug\netcoreapp3.1\kilotrack.Data.AssemblyInfo.cs
+C:\Users\brian\Desktop\newDevelopments\productive_dev\kilotrack\kilotrack.Data\obj\Debug\netcoreapp3.1\kilotrack.Data.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\newDevelopments\productive_dev\kilotrack\kilotrack.Data\obj\Debug\netcoreapp3.1\kilotrack.Data.dll
+C:\Users\brian\Desktop\newDevelopments\productive_dev\kilotrack\kilotrack.Data\obj\Debug\netcoreapp3.1\kilotrack.Data.pdb
