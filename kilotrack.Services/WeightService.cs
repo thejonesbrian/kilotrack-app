@@ -1,11 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using kilotrack.Data;
 using kilotrack.Data.Models;
 
 namespace kilotrack.Services
 {
     public class WeightService : IWeightService
     {
+        private readonly KiloTrackDbContext _db;
+        public WeightService(KiloTrackDbContext db)
+        {
+            _db = db;
+        }
         public void AddWeight(Weight weight)
         {
             throw new NotImplementedException();
