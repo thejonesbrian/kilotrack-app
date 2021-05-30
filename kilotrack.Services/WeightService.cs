@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 using kilotrack.Data;
 using kilotrack.Data.Models;
@@ -24,7 +25,7 @@ namespace kilotrack.Services
 
         public List<Weight> GetAllWeights()
         {
-            throw new NotImplementedException();
+            return _db.Weights.ToList();
         }
 
         public Weight GetWeight(int weightId)
